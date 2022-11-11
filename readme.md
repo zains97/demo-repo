@@ -1,2 +1,5 @@
 # Hello
-This is my repo!
+
+## This is my repo!
+
+Finally formally learning git!
